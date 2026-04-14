@@ -7,6 +7,15 @@
 A free REST API to check WordPress plugins and Rust crates for
 EU Cyber Resilience Act (CRA) compliance.
 
+## Live API
+
+Base URL: `https://web-production-8ad02.up.railway.app`
+
+Try it now:
+- https://web-production-8ad02.up.railway.app/api/status
+- https://web-production-8ad02.up.railway.app/api/check/plugin/woocommerce
+- https://web-production-8ad02.up.railway.app/api/check/crate/tokio
+
 **CRA deadline: September 11, 2026**
 
 ## Endpoints
